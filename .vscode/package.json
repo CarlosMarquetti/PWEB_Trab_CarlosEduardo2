@@ -1,0 +1,22 @@
+{
+  "name": "pweb_trab_carloseduardo2",
+  "version": "1.0.0",
+  "description": "trabalho realizado para ganhar nota em PWEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMarquetti/Trab-PWEB.git"
+  },
+  "author": "Carlos Eduardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMarquetti/Trab-PWEB/issues"
+  },
+  "homepage": "https://github.com/CarlosMarquetti/Trab-PWEB#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
